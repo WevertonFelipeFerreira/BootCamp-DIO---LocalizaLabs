@@ -6,4 +6,4 @@
 
 #####        -Uma funcionalidade a mais que eu coloquei foi a opção de zerar a lista de alunos.
 
-<img src="C:\Users\verta\source\repos\BootCamp_DIO_LocalizaLabs\Prints\Cadastro.png" alt="Cadastro" style="zoom:80%;" />
+<img src="\BootCamp_DIO_LocalizaLabs\Prints\Cadastro.png" alt="Cadastro" style="zoom:80%;" />
