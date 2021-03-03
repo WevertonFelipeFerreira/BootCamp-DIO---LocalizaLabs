@@ -4,6 +4,6 @@
 
 ####         - É um sistema criado para cadastro de aluno onde é possível também inserir notas e ate calcular a media geral de todos alunos.
 
-####        - Uma funcionalidade a mais que eu coloquei foi a opção de zerar a lista de alunos.
+####        - Uma funcionalidade a mais que eu coloquei foi a opção de zerar a lista de alunos e a opção para limpar a tela do console.
 
 <img src="https://i.postimg.cc/pT96tnKc/Screenshot-1.png" alt="Cadastro" style="zoom:45%;" />

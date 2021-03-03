@@ -9,7 +9,7 @@ namespace CadastroDeAluno
     {
         static void Main(string[] args)
         {
-            int totalAlunos = 4;
+            int totalAlunos = 15;
             Aluno[] alunos = new Aluno[totalAlunos];
             int indiceAluno = 0;
             string opcaoUsuario = ObterOpcaoUsuario();
@@ -69,7 +69,7 @@ namespace CadastroDeAluno
                             conceitoGeral = Conceito.B;
                         }
                         else conceitoGeral = Conceito.A;
-                        Console.WriteLine($"A média dos alunos é: {media} - CONCEITO: {conceitoGeral}");
+                        Console.WriteLine($"A média dos alunos é: {Math.Round(media,1)} - CONCEITO: {conceitoGeral}");
                         break;
                     case "4":
                         for (int i = 0; i < alunos.Length; i++) 
@@ -82,6 +82,8 @@ namespace CadastroDeAluno
                             }
                         }
                         break;
+                    case "5":
+                        Console.Clear();break;
                     default:
                         throw new ArgumentOutOfRangeException("As opcões só vai ate 3");
                 }
@@ -97,6 +99,7 @@ namespace CadastroDeAluno
             Console.WriteLine("2- Listar Aluno");
             Console.WriteLine("3- Calcular Média Geral");
             Console.WriteLine("4- Zerar lista de alunos");
+            Console.WriteLine("5- Limpar Console");
             Console.WriteLine("X- Sair");
             Console.WriteLine();
             string opcaoUsuario = Console.ReadLine();
