@@ -10,6 +10,6 @@
 
 - ## Aumento de salário  
 
-              ####        - Ajuste salarial tendo como entrada somente o salário atual.
+   - ####       Ajuste salarial tendo como entrada somente o salário atual.
 
 <img src="https://i.postimg.cc/bNJd2SSv/Reajuste.jpg" alt="Reajuste" style="zoom:55%;" />
