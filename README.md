@@ -17,7 +17,7 @@
 
 - ## Aplicação de transferencia bancaria
 
-  #### - Projeto proposto escrito de forma um pouco diferente e com mais duas funções, "Apagar conta do sistema", e "Procurar dados do cliente pelo nome"(Em uma ocasião real não seria ideal colocar a função de apagar conta, mas foi só para fins de estudo). Foi adiocionado bastante condições para que o programa não de muito erro por falta de valores de entrada.
+  #### - Projeto proposto escrito de forma um pouco diferente e com mais duas funções, "Apagar conta do sistema", e "Procurar dados do cliente pelo nome"(Em uma ocasião real não seria ideal colocar a função de apagar conta, mas foi só para fins de estudo). Foi adicionado bastante condições para que o programa não de muito erro por falta de valores de entrada.
 
   <img src="https://i.postimg.cc/XYL1y1rR/Screenshot-4.png" alt="Cadastro" style="zoom:70%;" />
 
