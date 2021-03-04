@@ -1,0 +1,7 @@
+C:\Users\verta\source\repos\BootCamp_DIO_LocalizaLabs\AumentoDeSalario\AumentoDeSalario\bin\Debug\AumentoDeSalario.exe.config
+C:\Users\verta\source\repos\BootCamp_DIO_LocalizaLabs\AumentoDeSalario\AumentoDeSalario\bin\Debug\AumentoDeSalario.exe
+C:\Users\verta\source\repos\BootCamp_DIO_LocalizaLabs\AumentoDeSalario\AumentoDeSalario\bin\Debug\AumentoDeSalario.pdb
+C:\Users\verta\source\repos\BootCamp_DIO_LocalizaLabs\AumentoDeSalario\AumentoDeSalario\obj\Debug\AumentoDeSalario.csprojAssemblyReference.cache
+C:\Users\verta\source\repos\BootCamp_DIO_LocalizaLabs\AumentoDeSalario\AumentoDeSalario\obj\Debug\AumentoDeSalario.csproj.CoreCompileInputs.cache
+C:\Users\verta\source\repos\BootCamp_DIO_LocalizaLabs\AumentoDeSalario\AumentoDeSalario\obj\Debug\AumentoDeSalario.exe
+C:\Users\verta\source\repos\BootCamp_DIO_LocalizaLabs\AumentoDeSalario\AumentoDeSalario\obj\Debug\AumentoDeSalario.pdb
