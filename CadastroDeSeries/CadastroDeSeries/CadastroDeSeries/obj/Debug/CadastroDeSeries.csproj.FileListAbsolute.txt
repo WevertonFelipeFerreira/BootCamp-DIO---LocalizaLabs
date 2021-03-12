@@ -1,0 +1,10 @@
+C:\Users\verta\source\repos\BootCamp_DIO_LocalizaLabs\CadastroDeSeries\CadastroDeSeries\CadastroDeSeries\bin\Debug\CadastroDeSeries.exe.config
+C:\Users\verta\source\repos\BootCamp_DIO_LocalizaLabs\CadastroDeSeries\CadastroDeSeries\CadastroDeSeries\bin\Debug\CadastroDeSeries.exe
+C:\Users\verta\source\repos\BootCamp_DIO_LocalizaLabs\CadastroDeSeries\CadastroDeSeries\CadastroDeSeries\bin\Debug\CadastroDeSeries.pdb
+C:\Users\verta\source\repos\BootCamp_DIO_LocalizaLabs\CadastroDeSeries\CadastroDeSeries\CadastroDeSeries\obj\Debug\CadastroDeSeries.csprojAssemblyReference.cache
+C:\Users\verta\source\repos\BootCamp_DIO_LocalizaLabs\CadastroDeSeries\CadastroDeSeries\CadastroDeSeries\obj\Debug\CadastroDeSeries.csproj.CoreCompileInputs.cache
+C:\Users\verta\source\repos\BootCamp_DIO_LocalizaLabs\CadastroDeSeries\CadastroDeSeries\CadastroDeSeries\obj\Debug\CadastroDeSeries.exe
+C:\Users\verta\source\repos\BootCamp_DIO_LocalizaLabs\CadastroDeSeries\CadastroDeSeries\CadastroDeSeries\obj\Debug\CadastroDeSeries.pdb
+C:\Users\verta\source\repos\BootCamp_DIO_LocalizaLabs\CadastroDeSeries\CadastroDeSeries\CadastroDeSeries\bin\Debug\CadastroDeSeries.Modelos.dll
+C:\Users\verta\source\repos\BootCamp_DIO_LocalizaLabs\CadastroDeSeries\CadastroDeSeries\CadastroDeSeries\bin\Debug\CadastroDeSeries.Modelos.pdb
+C:\Users\verta\source\repos\BootCamp_DIO_LocalizaLabs\CadastroDeSeries\CadastroDeSeries\CadastroDeSeries\obj\Debug\CadastroDeSeries.csproj.CopyComplete
