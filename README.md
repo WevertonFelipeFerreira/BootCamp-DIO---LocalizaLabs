@@ -27,3 +27,5 @@
   
    <img src="https://i.postimg.cc/yxRTXSw5/Estrela.png" alt="Cadastro" style="zoom:70%;" />
 
+- ## Aplicação vaquinha
+ #### - Adicionado testes que preenche os campos de /Doacao/Create e faz a verificação se todos os dados foram preenchidos corretamente (Os testes levam cerca de 2 minutos para finalizar).
