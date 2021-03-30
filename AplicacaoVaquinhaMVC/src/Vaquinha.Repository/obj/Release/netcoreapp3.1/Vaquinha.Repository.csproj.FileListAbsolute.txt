@@ -1,0 +1,15 @@
+C:\Users\verta\source\repos\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Release\netcoreapp3.1\Vaquinha.Repository.deps.json
+C:\Users\verta\source\repos\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Release\netcoreapp3.1\Vaquinha.Repository.runtimeconfig.json
+C:\Users\verta\source\repos\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Release\netcoreapp3.1\Vaquinha.Repository.runtimeconfig.dev.json
+C:\Users\verta\source\repos\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Release\netcoreapp3.1\Vaquinha.Repository.dll
+C:\Users\verta\source\repos\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Release\netcoreapp3.1\Vaquinha.Repository.pdb
+C:\Users\verta\source\repos\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Release\netcoreapp3.1\Vaquinha.Domain.dll
+C:\Users\verta\source\repos\dotnet-vaquinha-tests\src\Vaquinha.Repository\bin\Release\netcoreapp3.1\Vaquinha.Domain.pdb
+C:\Users\verta\source\repos\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Release\netcoreapp3.1\Vaquinha.Repository.csprojAssemblyReference.cache
+C:\Users\verta\source\repos\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Release\netcoreapp3.1\Vaquinha.Repository.AssemblyInfoInputs.cache
+C:\Users\verta\source\repos\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Release\netcoreapp3.1\Vaquinha.Repository.AssemblyInfo.cs
+C:\Users\verta\source\repos\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Release\netcoreapp3.1\Vaquinha.Repository.csproj.CoreCompileInputs.cache
+C:\Users\verta\source\repos\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Release\netcoreapp3.1\Vaquinha.Repository.csproj.CopyComplete
+C:\Users\verta\source\repos\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Release\netcoreapp3.1\Vaquinha.Repository.dll
+C:\Users\verta\source\repos\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Release\netcoreapp3.1\Vaquinha.Repository.pdb
+C:\Users\verta\source\repos\dotnet-vaquinha-tests\src\Vaquinha.Repository\obj\Release\netcoreapp3.1\Vaquinha.Repository.genruntimeconfig.cache
