@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3lp3upA6f6KmwmO1mDCHa7yKF0c6+5kwTxvgw2EGBqewH/zSptcGNA4oz20njw/Aj+9yOBP3yFvRVPkSesbysA==",
+  "dgSpecHash": "RRqQZLVUJ19a0Rq0ovd/nF7coi9pKW2CtHbT1TF0i1EflzvrqiR2FRO5IA/3N7hhuY0w/WR4fGv1LW9tcMuNjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\verta\\source\\repos\\dotnet-vaquinha-tests\\tests\\Vaquinha.Automated.UI.Tests\\Vaquinha.Automated.UI.Tests.csproj",
+  "projectFilePath": "C:\\Users\\verta\\source\\repos\\BootCamp_DIO_LocalizaLabs\\AplicacaoVaquinhaMVC\\tests\\Vaquinha.Automated.UI.Tests\\Vaquinha.Automated.UI.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\verta\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\verta\\.nuget\\packages\\bogus\\29.0.2\\bogus.29.0.2.nupkg.sha512",

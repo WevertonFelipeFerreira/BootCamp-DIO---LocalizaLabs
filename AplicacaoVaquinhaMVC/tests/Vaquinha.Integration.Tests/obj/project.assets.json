@@ -11964,11 +11964,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\verta\\source\\repos\\dotnet-vaquinha-tests\\tests\\Vaquinha.Integration.Tests\\Vaquinha.Integration.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\verta\\source\\repos\\BootCamp_DIO_LocalizaLabs\\AplicacaoVaquinhaMVC\\tests\\Vaquinha.Integration.Tests\\Vaquinha.Integration.Tests.csproj",
       "projectName": "Vaquinha.Integration.Tests",
-      "projectPath": "C:\\Users\\verta\\source\\repos\\dotnet-vaquinha-tests\\tests\\Vaquinha.Integration.Tests\\Vaquinha.Integration.Tests.csproj",
+      "projectPath": "C:\\Users\\verta\\source\\repos\\BootCamp_DIO_LocalizaLabs\\AplicacaoVaquinhaMVC\\tests\\Vaquinha.Integration.Tests\\Vaquinha.Integration.Tests.csproj",
       "packagesPath": "C:\\Users\\verta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\verta\\source\\repos\\dotnet-vaquinha-tests\\tests\\Vaquinha.Integration.Tests\\obj\\",
+      "outputPath": "C:\\Users\\verta\\source\\repos\\BootCamp_DIO_LocalizaLabs\\AplicacaoVaquinhaMVC\\tests\\Vaquinha.Integration.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -11989,11 +11989,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\verta\\source\\repos\\dotnet-vaquinha-tests\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj": {
-              "projectPath": "C:\\Users\\verta\\source\\repos\\dotnet-vaquinha-tests\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj"
+            "C:\\Users\\verta\\source\\repos\\BootCamp_DIO_LocalizaLabs\\AplicacaoVaquinhaMVC\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj": {
+              "projectPath": "C:\\Users\\verta\\source\\repos\\BootCamp_DIO_LocalizaLabs\\AplicacaoVaquinhaMVC\\src\\Vaquinha.MVC\\Vaquinha.MVC.csproj"
             },
-            "C:\\Users\\verta\\source\\repos\\dotnet-vaquinha-tests\\tests\\Vaquinha.Tests.Common\\Vaquinha.Tests.Common.csproj": {
-              "projectPath": "C:\\Users\\verta\\source\\repos\\dotnet-vaquinha-tests\\tests\\Vaquinha.Tests.Common\\Vaquinha.Tests.Common.csproj"
+            "C:\\Users\\verta\\source\\repos\\BootCamp_DIO_LocalizaLabs\\AplicacaoVaquinhaMVC\\tests\\Vaquinha.Tests.Common\\Vaquinha.Tests.Common.csproj": {
+              "projectPath": "C:\\Users\\verta\\source\\repos\\BootCamp_DIO_LocalizaLabs\\AplicacaoVaquinhaMVC\\tests\\Vaquinha.Tests.Common\\Vaquinha.Tests.Common.csproj"
             }
           }
         }

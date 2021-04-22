@@ -284,11 +284,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\verta\\source\\repos\\dotnet-vaquinha-tests\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\verta\\source\\repos\\BootCamp_DIO_LocalizaLabs\\AplicacaoVaquinhaMVC\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj",
       "projectName": "Vaquinha.Domain",
-      "projectPath": "C:\\Users\\verta\\source\\repos\\dotnet-vaquinha-tests\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj",
+      "projectPath": "C:\\Users\\verta\\source\\repos\\BootCamp_DIO_LocalizaLabs\\AplicacaoVaquinhaMVC\\src\\Vaquinha.Domain\\Vaquinha.Domain.csproj",
       "packagesPath": "C:\\Users\\verta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\verta\\source\\repos\\dotnet-vaquinha-tests\\src\\Vaquinha.Domain\\obj\\",
+      "outputPath": "C:\\Users\\verta\\source\\repos\\BootCamp_DIO_LocalizaLabs\\AplicacaoVaquinhaMVC\\src\\Vaquinha.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

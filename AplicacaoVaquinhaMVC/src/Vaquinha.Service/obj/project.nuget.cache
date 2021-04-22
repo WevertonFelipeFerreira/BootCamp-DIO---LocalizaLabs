@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dgHH+klj14CQGpUS0zm9sk7sb9d0u5gwjsvpllc94Avh4iY1amIzMUpmI9EWnOdJbP2ypkGIrO27fXn3/wOuQQ==",
+  "dgSpecHash": "OWqYflBUSDz0IGl7wV6fhNh7F3I39LJYg6TNfvD0IRec/96rJpnLmNIe+7ZNZ7Ul883+aeGTJQRCd9RXqY7HSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\verta\\source\\repos\\dotnet-vaquinha-tests\\src\\Vaquinha.Service\\Vaquinha.Service.csproj",
+  "projectFilePath": "C:\\Users\\verta\\source\\repos\\BootCamp_DIO_LocalizaLabs\\AplicacaoVaquinhaMVC\\src\\Vaquinha.Service\\Vaquinha.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\verta\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\verta\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",

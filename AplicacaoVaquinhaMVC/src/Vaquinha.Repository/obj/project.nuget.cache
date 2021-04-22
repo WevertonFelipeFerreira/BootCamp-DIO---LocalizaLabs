@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mZsZkLWCr3fGIIDkWwim0KAOMuomnJVTOfq1jxMhiZWiSk1HKZJRn8zB0VMpqw5iD+o48rl9vTlF/kmKzgInlQ==",
+  "dgSpecHash": "iAbwhIcf+na8kQaGwrdb51mtp/0ZuKC7d11KZAVgCpMffc52uURVvrM8f+E4G0UT/lBkAg9O3m3MSBqjMXQCyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\verta\\source\\repos\\dotnet-vaquinha-tests\\src\\Vaquinha.Repository\\Vaquinha.Repository.csproj",
+  "projectFilePath": "C:\\Users\\verta\\source\\repos\\BootCamp_DIO_LocalizaLabs\\AplicacaoVaquinhaMVC\\src\\Vaquinha.Repository\\Vaquinha.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\verta\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\verta\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
